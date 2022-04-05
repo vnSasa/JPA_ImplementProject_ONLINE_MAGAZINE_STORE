@@ -1,0 +1,1 @@
+# JPA_ImplementProject_ONLINE_MAGAZINE_STORE
